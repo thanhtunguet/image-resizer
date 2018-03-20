@@ -1,0 +1,20 @@
+{
+  "name": "uet/image-resizer",
+  "description": "Image Resizer",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "thanhtunguet",
+      "email": "thanhtung.uet@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "uet\\Image\\": "src/"
+    }
+  }
+}
